@@ -1,3 +1,5 @@
+#Read text files inside zip files without extracting it using powershell
+
 #importing the module required for reading zip files
 Add-Type "sytem.io.compression.filesystem"
 
